@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+}
+
+body{
+    margin: 5px;
+}
+
+.infor{
+    align-items: center;
+    margin-top:10px;
+    margin-bottom:5px;
+}
+
+h1,h3{
+    text-align: center;
+}
+
+img{
+    width:700px;
+    height:550px;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+
